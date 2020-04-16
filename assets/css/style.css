@@ -24,7 +24,7 @@ nav li {
 }
 
 #intro .jumbotron {
-	background: url('../img/mainbg.png');
+	background-color: #CCC;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50%;
